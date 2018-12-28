@@ -1,0 +1,82 @@
+commit c200eb9499034b0c0d396d4afc26c3a690d97381
+Author: Tejaswini Ramnath Jagtap <trj8497@cs.rit.edu>
+Date:   Sat Nov 3 21:13:50 2018 -0400
+
+      Fixed the issue with first element in the maze to be '0'.
+
+commit cecf879b81c3ddcfea9e782e632abe301382f063
+Author: Tejaswini Ramnath Jagtap <trj8497@cs.rit.edu>
+Date:   Sat Nov 3 20:44:06 2018 -0400
+
+      Solved the problem that was with the columns while reading the file.
+
+commit 8891aa20fbf3a5945455f3a40058b2feb760e996
+Author: Tejaswini Ramnath Jagtap <trj8497@cs.rit.edu>
+Date:   Sat Nov 3 17:41:45 2018 -0400
+
+      Added comments
+
+commit a5283a74d9c8f98f4e70b0d79008624081ea1300
+Author: Tejaswini Ramnath Jagtap <trj8497@cs.rit.edu>
+Date:   Sat Nov 3 17:40:49 2018 -0400
+
+      Added comments to the code and changed the allocation of the array of
+    the queue.
+
+commit 57e873af0887f535e6633e1cd0527daa8ef70b80
+Author: Tejaswini Ramnath Jagtap <trj8497@cs.rit.edu>
+Date:   Sat Nov 3 17:38:18 2018 -0400
+
+      Fixed the code for the co-ordination of the flags and freed the
+    allocated memory. Also, documented my code.
+
+commit bc2675316e0189e771605cb5715232a3975fbd4e
+Author: Tejaswini Ramnath Jagtap <trj8497@cs.rit.edu>
+Date:   Sat Nov 3 13:23:15 2018 -0400
+
+      Breadth first search implemented that counts the number for steps in
+    which we get solution and also tracj=ks the shortest path.
+
+commit f10c2ed71403ea276773a83ccede5ca24cb1c282
+Author: Tejaswini Ramnath Jagtap <trj8497@cs.rit.edu>
+Date:   Fri Nov 2 15:05:17 2018 -0400
+
+      Wrote the function breadth_first_search to know whether we have a
+    solution or not.
+
+commit c9542e65f970d74b8576aad5d934e0031616096d
+Author: Tejaswini Ramnath Jagtap <trj8497@cs.rit.edu>
+Date:   Fri Nov 2 15:03:42 2018 -0400
+
+      Tested QueueADT.c with the help of main function that is now commented
+    out and converted some function to stactic.
+
+commit 3d9b48b0137fb3088f4212840208f165807db761
+Author: Tejaswini Ramnath Jagtap <trj8497@cs.rit.edu>
+Date:   Fri Nov 2 15:00:17 2018 -0400
+
+      Added isEmpty function so that we can use it mopsolver.c
+
+commit 34f81501d47c46b15b56ac39fd32628317b5764e
+Author: Tejaswini Ramnath Jagtap <trj8497@cs.rit.edu>
+Date:   Mon Oct 29 01:26:02 2018 -0400
+
+      Implemented functions that are in the header file QueueADT.h
+
+commit 323d6acaf90beb07d5d34429b0bd902f3f47539b
+Author: Tejaswini Ramnath Jagtap <trj8497@cs.rit.edu>
+Date:   Mon Oct 29 01:25:01 2018 -0400
+
+      Header file for Queue ADT
+
+commit 4188c5286b5618cd0e4ca04b3d43ffa7ed668b30
+Author: Tejaswini Ramnath Jagtap <trj8497@cs.rit.edu>
+Date:   Mon Oct 29 01:22:10 2018 -0400
+
+      Created two arrays and stored values in it and created Queue ADT.
+
+commit 8f8447acc1464d7916398532ce077e0a0dfa91bd
+Author: Tejaswini Ramnath Jagtap <trj8497@cs.rit.edu>
+Date:   Sat Oct 27 21:02:58 2018 -0400
+
+      Created mopsolver file. Worte code for reading the flags using getopt and printed them out.
